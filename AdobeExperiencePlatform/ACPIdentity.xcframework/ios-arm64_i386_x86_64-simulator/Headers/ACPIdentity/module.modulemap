@@ -1,4 +1,0 @@
-module ACPIdentity {
-    umbrella "."
-    export *
-}
